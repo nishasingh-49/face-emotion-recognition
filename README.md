@@ -1,12 +1,11 @@
 # face-emotion-recognition
 a fun project which basically detects the facial emotion of an individual.<br>
-## 📌 Features
-
+##Features
 **Real-time face detection** using Haar Cascades
 **Emotion classification** using a fine-tuned CNN model
 **7-class prediction**: Happy, Sad, Angry, Neutral, Fear, Surprise, Disgust
 
-## 🧠 Tech Stack
+##Tech Stack
 
 | Technology         | Role                      |
 |--------------------|---------------------------|
@@ -16,3 +15,11 @@ a fun project which basically detects the facial emotion of an individual.<br>
 | NumPy & Matplotlib | Data Handling & Visualization |
 | Streamlit          | GUI Development  |
 
+##Future Improvements
+ Add GUI with Streamlit or Tkinter
+ Add emotion log database
+ Extend to age and gender prediction
+ Web app version (React + Flask)
+ 
+##License
+This project is licensed under the MIT License.
